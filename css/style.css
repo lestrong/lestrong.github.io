@@ -1,0 +1,34 @@
+.center{
+	margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.blockquote { 
+    width: 2000px;
+	background-color: #ffd500;
+	border: 5px solid #ffd500;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+img.pos_left{
+	position: relative;
+	left: 100px
+}
+button.pos_left{
+	position: relative;
+	left: 1500px;
+}
+img.pos_left{
+	position: relative;
+	left: 1550;
+}
+a {
+	outline-color: black;
+	color:black;
+}
+button.pos_left {
+  position: relative;
+  left: 1475px;
+  margin: 79px 1511px 85px 393px;
+}
